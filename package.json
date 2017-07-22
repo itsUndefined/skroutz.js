@@ -1,0 +1,20 @@
+{
+  "name": "skroutz",
+  "version": "1.1.0",
+  "description": "the skroutz.gr API for nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "skroutz",
+    "api",
+    "oauth2"
+  ],
+  "author": "itsUndefined",
+  "license": "MIT",
+  "repository": "itsUndefined/skroutz.js",
+  "dependencies": {
+    "follow-redirects": "^1.2.4"
+  }
+}
